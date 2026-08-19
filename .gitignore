@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Local environment files
+.env
+.env.*
+
+# Generated / local audio
+audio_samples/
+*.wav
+*.mp3
+*.flac
+
+# Generated model / cache files
+*.pkl
+*.h5
+*.pt
+.cache/
