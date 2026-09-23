@@ -1,4 +1,4 @@
-# Morse Code Decoder
+# Morse-Code-Decoder
 
 A modular **Morse code audio decoder in Python** built as a team project for Object-Oriented Programming at TH Köln.
 
